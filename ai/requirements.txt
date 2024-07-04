@@ -43,7 +43,7 @@ SQLAlchemy==2.0.18
 starlette==0.27.0
 tenacity==8.2.2
 tiktoken==0.4.0
-tqdm==4.65.0
+tqdm==4.66.3
 typing-inspect==0.8.0
 typing_extensions==4.5.0
 tzdata==2023.3
