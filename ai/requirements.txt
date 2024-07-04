@@ -29,7 +29,7 @@ openai==0.27.8
 openapi-schema-pydantic==1.2.4
 packaging==23.1
 pandas==2.0.3
-pydantic==1.10.11
+pydantic==1.10.13
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 pytz==2023.3
