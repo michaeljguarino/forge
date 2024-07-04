@@ -9,7 +9,7 @@ charset-normalizer==3.2.0
 click==8.1.4
 dataclasses-json==0.5.9
 exceptiongroup==1.1.2
-fastapi==0.100.0
+fastapi==0.109.1
 frozenlist==1.3.3
 fsspec==2023.6.0
 h11==0.14.0
