@@ -15,7 +15,7 @@ fsspec==2023.6.0
 h11==0.14.0
 httptools==0.6.0
 idna==3.4
-langchain==0.0.329
+langchain==0.1.0
 langchainplus-sdk==0.0.20
 llama-index==0.7.4
 marshmallow==3.19.0
