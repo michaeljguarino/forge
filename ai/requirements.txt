@@ -17,7 +17,7 @@ httptools==0.6.0
 idna==3.4
 langchain==0.0.329
 langchainplus-sdk==0.0.20
-llama-index==0.7.4
+llama-index==0.10.13
 marshmallow==3.19.0
 marshmallow-enum==1.5.1
 multidict==6.0.4
