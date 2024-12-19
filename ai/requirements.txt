@@ -4,7 +4,7 @@ anyio==3.7.1
 async-timeout==4.0.2
 attrs==23.1.0
 beautifulsoup4==4.12.2
-certifi==2023.7.22
+certifi==2024.7.4
 charset-normalizer==3.2.0
 click==8.1.4
 dataclasses-json==0.5.9
