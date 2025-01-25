@@ -19,7 +19,13 @@ terraform {
 }
 
 provider "azurerm" {
+  {{- if .Values.Context.skipProviderRegistration }}
+  features {
+    skip_provider_registration = true
+  }
+  {{- else }}
   features {}
+  {{- end }}
 }
 
 {{ if .Values.ClusterCreated }}
