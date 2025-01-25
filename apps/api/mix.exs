@@ -73,7 +73,7 @@ defmodule Api.MixProject do
       {:gettext, "~> 0.20"},
       {:jason, "~> 1.0"},
       {:guardian, "~> 1.2.1"},
-      {:cors_plug, "~> 2.0"},
+      {:cors_plug, "~> 3.0"},
       {:plug_cowboy, "~> 2.6.0", override: true},
       {:reverse_proxy_plug, "~> 2.1.1"},
       {:libcluster, "~> 3.3.1"},
