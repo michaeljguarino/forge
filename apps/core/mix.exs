@@ -121,7 +121,7 @@ defmodule Core.MixProject do
       {:amqp, "~> 3.2", override: true},
       {:mime, "~> 1.2"},
       {:ex_image_info, "~> 0.2.4"},
-      {:instream, "~> 1.0"},
+      {:instream, "~> 2.0"},
       {:swarm, "~> 3.4.0"},
       {:poison, "~> 3.0"},
       {:cloudflare, "~> 0.2"},
