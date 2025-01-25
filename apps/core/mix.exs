@@ -76,7 +76,7 @@ defmodule Core.MixProject do
       {:bamboo, "~> 2.0"},
       {:parallax, "~> 1.0"},
       {:bourne, "~> 1.1"},
-      {:flow, "~> 0.15.0"},
+      {:flow, "~> 1.2.0"},
       {:joken, "~> 2.5.0"},
       {:guardian, "~> 1.2.1"},
       {:arc, "~> 0.11.0"},
