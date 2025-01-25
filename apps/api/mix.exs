@@ -72,7 +72,7 @@ defmodule Api.MixProject do
       {:phoenix_live_reload, "~> 1.2", only: :dev},
       {:gettext, "~> 0.20"},
       {:jason, "~> 1.0"},
-      {:guardian, "~> 1.2.1"},
+      {:guardian, "~> 2.3.0"},
       {:cors_plug, "~> 2.0"},
       {:plug_cowboy, "~> 2.6.0", override: true},
       {:reverse_proxy_plug, "~> 2.1.1"},

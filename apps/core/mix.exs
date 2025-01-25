@@ -78,7 +78,7 @@ defmodule Core.MixProject do
       {:bourne, "~> 1.1"},
       {:flow, "~> 0.15.0"},
       {:joken, "~> 2.5.0"},
-      {:guardian, "~> 1.2.1"},
+      {:guardian, "~> 2.3.0"},
       {:arc, "~> 0.11.0"},
       {:arc_gcs, "~> 0.2.0"},
       {:porcelain, "~> 2.0"},
