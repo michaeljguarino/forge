@@ -119,7 +119,7 @@ defmodule Core.MixProject do
       {:conduit_amqp, "~> 0.6.3"},
       {:rabbit_common, "~> 3.9", override: true},
       {:amqp, "~> 3.2", override: true},
-      {:mime, "~> 1.2"},
+      {:mime, "~> 2.0"},
       {:ex_image_info, "~> 0.2.4"},
       {:instream, "~> 1.0"},
       {:swarm, "~> 3.4.0"},
